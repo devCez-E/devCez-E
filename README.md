@@ -1,5 +1,5 @@
-
 ## Hello, I'm Cezanne Lee!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Cezanne&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!-- - 📫  How to reach me: 
    - Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-%20blog-000000?style=flat-square&logo=bookstack&logoColor=white&link=https://alstn2468.github.io/)](https://waytocse.tistory.com/)
