@@ -39,8 +39,11 @@
 <p align="left">
 <a href="https://github.com/devCez-E">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devCez-E&show_icons=true&include_all_commits=true&count_private=true"/>
-<!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devCez-E&layout=compact&langs_count=8&theme=chartreuse-dark"/> -->
+<!--  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devCez-E&layout=compact&langs_count=8&theme=chartreuse-dark"/> 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcez82)](https://solved.ac/devcez82/)
+-->
 
 </a>
 
