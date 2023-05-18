@@ -39,8 +39,7 @@
    
 ## 📊 GitHub Analytics
 
-   ![Cezanne's github stats](https://github-readme-stats.vercel.app/api?username=devCez-E&show_icons=true)    
-   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcez82)](https://solved.ac/devcez82)
+   ![Cezanne's github stats](https://github-readme-stats.vercel.app/api?username=devCez-E&show_icons=true) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcez82)](https://solved.ac/devcez82)
 
 <br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevCez-E%2Fhit-counter&count_bg=%233F78FF&title_bg=%23FF3C3C&icon=airfrance.svg&icon_color=%23FFFFFF&title=FR&edge_flat=false"/></a>
